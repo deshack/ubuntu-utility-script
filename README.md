@@ -12,12 +12,12 @@ Italian users may run ubuntu-post-install-ita.sh
 Authors
 =======
 
-Original:
-Sam "snwh" Hewitt
+Original:<<BR>>
+Sam "snwh" Hewitt<<BR>>
 https://github.com/snwh/ubuntu-post-install
 
-This edition:
-Mattia "deshack" Migliorini
+This edition:<<BR>>
+Mattia "deshack" Migliorini<<BR>>
 https://github.com/deshack/ubuntu-post-install
 
 License GPLv2
