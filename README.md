@@ -1,7 +1,7 @@
 Ubuntu Post Install Script
 ==========================
 
-VERSION: 13.04.2
+VERSION: 13.04.3
 
 The following script includes some of my favourite applications and preferred settings. 
 

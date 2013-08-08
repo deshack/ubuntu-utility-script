@@ -166,13 +166,6 @@ elif [ "$INPUT" -eq 3 ]; then
     thirdparty
 # Unity Tweak Tool
 elif [ "$INPUT" -eq 4 ]; then
-    # Add repository
-    echo 'Adding Unity Tweak Tool repository to sources...'
-    echo 'Requires root privileges:'
-    sudo add-apt-repository ppa:freyja-dev/unity-tweak-tool-daily
-    # Update Repository Information
-    echo 'Updating repository information...'
-    sudo apt-get update -qq
     # Install the package
     echo 'Installing Unity Tweak Tool...'
     sudo apt-get install -y unity-tweak-tool
