@@ -221,7 +221,8 @@ if [ "$INPUT" -eq 1 ]; then
     # Unity Settings
     echo 'Setting Unity preferences...'
     gsettings set com.canonical.Unity.ApplicationsLens display-available-apps false
-    gsettings set com.canonical.unity-greeter draw-user-backgrounds true 
+    gsettings set com.canonical.unity-greeter draw-user-backgrounds true
+		gsettings set com.canonical.unity-greeter draw-grid false
     gsettings set com.canonical.indicator.power icon-policy 'present'
     gsettings set com.canonical.Unity.Lenses remote-content-search 'all'
     # Nautilus Preferences
