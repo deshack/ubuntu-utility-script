@@ -37,3 +37,7 @@ GNU General Public License for more details.
 
 You can read the full license text in the file named LICENSE
 distributed along with this software.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/deshack/ubuntu-utility-script/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
